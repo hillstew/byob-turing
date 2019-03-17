@@ -67,19 +67,34 @@ const cohorts = [
     "lead_instructor": "Christie Lynam",
     "students": [
       {
-        "pronouns": "she/her",
-        "first_name": "Hillary",
-        "last_name": "Stewart",
+        "pronouns": "he/him",
+        "first_name": "Eric",
+        "last_name": "Fitzsimons",
       },
       {
         "pronouns": "she/her",
-        "first_name": "Hillary",
-        "last_name": "Stewart",
+        "first_name": "Kim",
+        "last_name": "Myers",
       },
       {
         "pronouns": "she/her",
-        "first_name": "Hillary",
-        "last_name": "Stewart",
+        "first_name": "Jessica",
+        "last_name": "Hansen",
+      },
+      {
+        "pronouns": "he/him",
+        "first_name": "Michael",
+        "last_name": "Krog",
+      },
+      {
+        "pronouns": "he/him",
+        "first_name": "Joshua",
+        "last_name": "Lavarine",
+      },
+      {
+        "pronouns": "he/him",
+        "first_name": "Adam",
+        "last_name": "Niedzwiecki",
       }
     ]
   },
@@ -90,18 +105,33 @@ const cohorts = [
     "students": [
       {
         "pronouns": "she/her",
-        "first_name": "Hillary",
-        "last_name": "Stewart",
+        "first_name": "Bridgett",
+        "last_name": "Coyle",
       },
       {
         "pronouns": "she/her",
-        "first_name": "Hillary",
-        "last_name": "Stewart",
+        "first_name": "Hannah",
+        "last_name": "Hyda",
       },
       {
         "pronouns": "she/her",
-        "first_name": "Hillary",
-        "last_name": "Stewart",
+        "first_name": "Kelly",
+        "last_name": "Zick",
+      },
+      {
+        "pronouns": "he/him",
+        "first_name": "Jacob",
+        "last_name": "Bogart",
+      },
+      {
+        "pronouns": "she/her",
+        "first_name": "Tiffany",
+        "last_name": "Bacher",
+      },
+      {
+        "pronouns": "he/him",
+        "first_name": "Justin",
+        "last_name": "Pyktel",
       },
     ]
   },
@@ -111,25 +141,45 @@ const cohorts = [
     "lead_instructor": "Louisa Barrett",
     "students": [
       {
-        "pronouns": "she/her",
-        "first_name": "Hillary",
-        "last_name": "Stewart"
+        "pronouns": "he/him",
+        "first_name": "Jev",
+        "last_name": "Forsberg"
       },
       {
         "pronouns": "she/her",
-        "first_name": "Hillary",
-        "last_name": "Stewart"
+        "first_name": "Anneke",
+        "last_name": "McGrady"
+      },
+      {
+        "pronouns": "he/him",
+        "first_name": "Nathan",
+        "last_name": "Froehlich"
       },
       {
         "pronouns": "she/her",
-        "first_name": "Hillary",
-        "last_name": "Stewart"
+        "first_name": "Annie",
+        "last_name": "Goodwin"
       },
       {
         "pronouns": "she/her",
-        "first_name": "Hillary",
-        "last_name": "Stewart"
+        "first_name": "Taylor",
+        "last_name": "Jordan"
       },
+      {
+        "pronouns": "she/her",
+        "first_name": "Katie",
+        "last_name": "Williams"
+      },
+      {
+        "pronouns": "he/him",
+        "first_name": "Stephen",
+        "last_name": "Rumizen"
+      },
+      {
+        "pronouns": "she/her",
+        "first_name": "Kayla",
+        "last_name": "Larson"
+      }
     ]
   }
 ]
