@@ -2,7 +2,7 @@ const cohorts = require('../../../data');
 
 const createCohort = (knex, cohort) => {
   return knex('cohorts').insert({
-    cohort_num: cohort.name,
+    cohort_num: cohort.cohort_num,
     current_mod: cohort.current_mod,
     lead_instructor: cohort.lead_instructor
   }, 'id')
