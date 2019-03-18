@@ -1,7 +1,6 @@
-## `/api/v1/cohorts`
----
-#### ```GET``` 
-#### parameters: none
+### `/api/v1/cohorts`
+```GET``` 
+parameters: none
 ```
     {
       "id": 22,
@@ -15,8 +14,9 @@
     response - 200 - array of all cohort objects
 ```
 
-#### ```POST``` 
-#### parameters: see table below
+```POST``` 
+parameters: see table below
+
 | name | type    | required  |
 |:---| :--------|:---------|
 | `cohort_num`    | string |   yes |
@@ -27,10 +27,9 @@
     response - 200,  the id of the created cohort
 ```
 
-## `/api/v1/cohorts/:id`
-----
-#### ```GET``` 
-#### parameters: ```id - string```
+### `/api/v1/cohorts/:id`
+```GET``` 
+parameters: ```id - string```
 
 ```
     
@@ -46,10 +45,9 @@
     response - 200 - object representing the specified cohort
 ```
 
-## `/api/v1/students`
----
-#### `GET`
-### parameters: none
+### `/api/v1/students`
+`GET`
+parameters: none
 ```
     {
       "id": 127,
@@ -63,8 +61,9 @@
 
     response - 200 - array of all student objects
 ```
-#### ```POST``` 
-### parameters: see table below
+```POST``` 
+parameters: see table below
+
 | name | type    | required  |
 |:---| :--------|:---------|
 | `pronouns`    | string |   yes |
@@ -77,11 +76,10 @@
 ```
 
 
-## `/api/v1/students/:id`
----
-#### `GET`
+### `/api/v1/students/:id`
+`GET`
 
-### parameters: `id` of student, `integer`
+parameters: `id` of student, `integer`
 ```
     {
       "id": 127,
@@ -95,9 +93,9 @@
 
     response - 200 - student object matching specified id
 ```
-#### `DELETE`
+`DELETE`
 
-### parameters: `id` of student, `integer`
+parameters: `id` of student, `integer`
 ```
     a message stating the deletion was successful
 
